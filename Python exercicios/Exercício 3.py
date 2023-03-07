@@ -2,7 +2,7 @@
 # Ao final o programa deverá apresentar o nome completo do usuário na tela.
 
 nome = input('Digite seu nome: ').strip()
-sobrenome = input('Digite seu nome: ').strip()
+sobrenome = input('Digite seu sobrenome: ').strip()
 print(f'{nome} {sobrenome}')
 
 
